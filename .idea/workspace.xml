@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac8ede69-c909-4c27-a076-55cdefd63170" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="FTC_2016-17.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ftc_app-master/FtcRobotController/src/main/assets/FTC_2016-17.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ftc_app-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Iterative OpMode" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ftc_app-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Iterative OpMode">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Func.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ftc_app-master/doc/javadoc/org/firstinspires/ftc/robotcore/external/Func.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interactive Opmode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ftc_app-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Interactive Opmode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="90" column="6" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ftc_app-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Iterative OpMode" />
+        <option value="$PROJECT_DIR$/ftc_app-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Interactive Opmode.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="177" />
+    <option name="y" value="8" />
+    <option name="width" value="1750" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="javadoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="javadoc" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="javadoc" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="javadoc" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="javadoc" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc" type="462c0819:PsiDirectoryNode" />
+              <item name="robotcore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="javadoc" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc" type="462c0819:PsiDirectoryNode" />
+              <item name="robotcore" type="462c0819:PsiDirectoryNode" />
+              <item name="external" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc" type="462c0819:PsiDirectoryNode" />
+              <item name="robotcontroller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc" type="462c0819:PsiDirectoryNode" />
+              <item name="robotcontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="external" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FtcRobotController" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc" type="462c0819:PsiDirectoryNode" />
+              <item name="robotcontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="TeamCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="TeamCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="TeamCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="TeamCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="TeamCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="TeamCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="TeamCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_app-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc_app-master" type="462c0819:PsiDirectoryNode" />
+              <item name="TeamCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="firstinspires" type="462c0819:PsiDirectoryNode" />
+              <item name="ftc" type="462c0819:PsiDirectoryNode" />
+              <item name="teamcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Danny\Desktop\ftc_app-master\ftc_app-master\TeamCode\src\main\java\org\firstinspires\ftc\teamcode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="AndroidJUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac8ede69-c909-4c27-a076-55cdefd63170" name="Default" comment="" />
+      <created>1540595774374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540595774374</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Captures" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ftc_app-master/FtcRobotController/src/main/assets/FTC_2016-17.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc_app-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc_app-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Iterative OpMode">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc_app-master/doc/javadoc/org/firstinspires/ftc/robotcore/external/Func.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc_app-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Interactive Opmode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="90" column="6" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
